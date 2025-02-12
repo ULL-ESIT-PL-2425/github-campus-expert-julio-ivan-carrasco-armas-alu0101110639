@@ -11,6 +11,8 @@
 
 ## Crear equipo con nombre correcto
 
+[enlace al grupo](https://github.com/orgs/ULL-ESIT-PL-2425/teams/julio-ivan-carrasco-armas-alu0101110639)
+
 ![equipo](docs/equipo.png)
 
 ## Crear un project board kanban para este repositorio
